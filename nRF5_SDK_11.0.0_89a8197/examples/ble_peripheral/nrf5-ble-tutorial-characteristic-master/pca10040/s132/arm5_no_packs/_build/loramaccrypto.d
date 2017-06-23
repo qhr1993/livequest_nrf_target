@@ -1,0 +1,9 @@
+.\_build\loramaccrypto.o: ..\..\..\..\..\..\external\LoRaMac_revision\mac\LoRaMacCrypto.c
+.\_build\loramaccrypto.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\_build\loramaccrypto.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\loramaccrypto.o: ..\..\..\..\..\..\external\LoRaMac_revision\utilities.h
+.\_build\loramaccrypto.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\loramaccrypto.o: ..\..\..\..\..\..\components\libraries\util\nordic_common.h
+.\_build\loramaccrypto.o: ..\..\..\..\..\..\external\LoRaMac_revision\crypto\aes.h
+.\_build\loramaccrypto.o: ..\..\..\..\..\..\external\LoRaMac_revision\crypto\cmac.h
+.\_build\loramaccrypto.o: ..\..\..\..\..\..\external\LoRaMac_revision\mac\LoRaMacCrypto.h
